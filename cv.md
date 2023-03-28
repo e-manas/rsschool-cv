@@ -1,6 +1,7 @@
 
 ## Manas Egemberdiev
 
+
 ## [Personal info/contacts](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#personal-infocontacts)
 
 **Country:** Kyrgyzstan
@@ -10,6 +11,7 @@
 **LinkedIn:** [https://www.linkedin.com/in/manas-egemberdiev-13b3708b/](https://www.linkedin.com/in/manas-egemberdiev-13b3708b/)
 
 **Habr:** [https://habr.com/ru/users/e-manas/](https://habr.com/ru/users/e-manas/)
+
 
 ## [Summary](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#summary)
 
@@ -33,6 +35,7 @@ As the saying goes, the road will be mastered by the walking.
     
 -   Java
 
+
 ## [Code examples](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#code-examples)
 
 **HTML5, CSS3:** [TributePage](https://e-manas.github.io/RWD__TributePage/), [City_Skyline](https://e-manas.github.io/CSS_Variables__City_Skyline/), [Nutrition Label](https://e-manas.github.io/Typography__Nutrition_Label/)
@@ -48,17 +51,20 @@ As the saying goes, the road will be mastered by the walking.
 
 ## [Education](https://github.com/e-manas/rsschool-cv/blob/main/cv.md#education)
 
-**Online courses**
+**Offline courses**
 
 -   Coder | WebDev Basic courses
+
+-   GeekTech | Front-End courses
+
+-   Zeon IT-Hub | Internship
+
+**Online courses**
     
 -   Codecademy | 13 completed courses related to Front-End Dev 
     
--   GeekTech | Front-End courses
-    
 -   Seytech | Fullstack Software Developer Bootcamp
-    
--   Zeon IT-Hub | Internship
+
 
 ## [Foreign language](https://github.com/e-manas/rsschool-cv/blob/main/cv.md#foreign-language)
 
