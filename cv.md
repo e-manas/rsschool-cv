@@ -39,3 +39,14 @@ As the saying goes, the road will be mastered by the walking.
     
 -   Java
 
+## [Code examples](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#code-examples)
+
+**HTML5, CSS3:** [TributePage](https://e-manas.github.io/RWD__TributePage/), [City_Skyline](https://e-manas.github.io/CSS_Variables__City_Skyline/), [Nutrition Label](https://e-manas.github.io/Typography__Nutrition_Label/)
+
+**JavaScript:** [Weather app](https://e-manas.github.io/weather-app/) , [https://howlerplayer.github.io/](https://howlerplayer.github.io/)
+
+**Codewars:** [https://www.codewars.com/users/e-manas](https://www.codewars.com/users/e-manas)
+
+**Codecademy:** [https://www.codecademy.com/profiles/e-manas](https://www.codecademy.com/profiles/e-manas)
+
+**FreeCodeCamp:** [https://www.freecodecamp.org/e-manas](https://www.freecodecamp.org/e-manas)
