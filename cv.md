@@ -1,9 +1,7 @@
 
 ## Manas Egemberdiev
 
-## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#personal-infocontacts)
-
-## Personal info/contacts
+## [Personal info/contacts](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#personal-infocontacts)
 
 **Country:** Kyrgyzstan
 
@@ -13,9 +11,7 @@
 
 **Habr:** [https://habr.com/ru/users/e-manas/](https://habr.com/ru/users/e-manas/)
 
-## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#summary)
-
-## Summary
+## [Summary](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#summary)
 
 I have been studying programming with varying degrees of success for the last 16 month. 
 I am an economist by education, but I have always had an interest in IT-staff & helthy lifestyle. Therefore, I have a wide range of knowledge in the fields: computers, smartphones, cars, cyclic sports, nutrition, etc. I'm trying to overcome laziness, which slows me down.
@@ -23,9 +19,7 @@ I'm open to any internship or job offer.
 As the saying goes, the road will be mastered by the walking.
 
 
-## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#experience-and-skills)
-
-## Experience and skills
+## [Experience and skills](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#experience-and-skills)
 
 -   HTML5, CSS3, Bootstrap, Sass, Tailwind CSS, BEM
     
@@ -50,3 +44,22 @@ As the saying goes, the road will be mastered by the walking.
 **Codecademy:** [https://www.codecademy.com/profiles/e-manas](https://www.codecademy.com/profiles/e-manas)
 
 **FreeCodeCamp:** [https://www.freecodecamp.org/e-manas](https://www.freecodecamp.org/e-manas)
+
+
+## [Education](https://github.com/e-manas/rsschool-cv/blob/main/cv.md#education)
+
+**Online courses**
+
+-   Coder | WebDev Basic courses
+    
+-   Codecademy | 13 completed courses related to Front-End Dev 
+    
+-   GeekTech | Front-End courses
+    
+-   Seytech | Fullstack Software Developer Bootcamp
+    
+-   Zeon IT-Hub | Internship
+
+## [Foreign language](https://github.com/e-manas/rsschool-cv/blob/main/cv.md#foreign-language)
+
+English (B2)
