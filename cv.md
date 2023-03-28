@@ -1,7 +1,7 @@
 
 ## Manas Egemberdiev
 
-## [](https://github.com/e-manas/rsschool-cv/blob/main/cv.md#personal-infocontacts)
+## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#personal-infocontacts)
 
 ## Personal info/contacts
 
@@ -13,7 +13,7 @@
 
 **Habr:** [https://habr.com/ru/users/e-manas/](https://habr.com/ru/users/e-manas/)
 
-## [](https://github.com/e-manas/rsschool-cv/blob/main//cv.md#summary)
+## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#summary)
 
 ## Summary
 
@@ -21,4 +21,21 @@ I have been studying programming with varying degrees of success for the last 16
 I am an economist by education, but I have always had an interest in IT-staff & helthy lifestyle. Therefore, I have a wide range of knowledge in the fields: computers, smartphones, cars, cyclic sports, nutrition, etc. I'm trying to overcome laziness, which slows me down.
 I'm open to any internship or job offer. 
 As the saying goes, the road will be mastered by the walking.
+
+
+## [](https://github.com/e-manas/rsschool-cv/blob/gh-pages/cv.md#experience-and-skills)
+
+## Experience and skills
+
+-   HTML5, CSS3, Bootstrap, Sass, Tailwind CSS, BEM
+    
+-   JS / TS, React
+    
+-   Git/GitHub
+    
+-   SQL, PL/SQL
+    
+-   Figma
+    
+-   Java
 
